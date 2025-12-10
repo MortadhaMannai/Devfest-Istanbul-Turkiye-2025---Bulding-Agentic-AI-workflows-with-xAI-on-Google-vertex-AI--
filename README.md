@@ -354,5 +354,3 @@ AI Expert Reviewer & Author | Packt Publishing UK
 [mannaimortadha898@gmail.com](mailto:mannaimortadha898@gmail.com)
 
 
-• A slide deck outline matching the README
-
