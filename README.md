@@ -3,13 +3,8 @@
 Building Agentic AI Systems with xAI on Vertex AI
 From Perception to Action + Agent Builder Comparison**
 
-**Author: Eng. Manai Mohamed Mortadha**
-Senior AI Engineer, Netflix
-PhD Candidate in Explainable AI, Saint Mary's University 
-AI Expert Consultant, Tegus USA
-CEO and Head of AI R&D, MAN.AI
-International AI Speaker (LinkedIn Top Voice)
-AI Expert Reviewer and Author, Packt Publishing UK
+**Author: Manai Mohamed Mortadha**
+
 
 ---
 
