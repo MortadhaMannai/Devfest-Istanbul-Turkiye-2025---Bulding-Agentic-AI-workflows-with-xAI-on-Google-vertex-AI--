@@ -1,6 +1,6 @@
 # DevFest Istanbul Türkiye 2025
 
-Building Agentic AI Systems with xAI on Vertex AI
+Building Agentic AI Systems with xAI on Vertex AI   
 From Perception to Action + Agent Builder Comparison**
 
 **Author: Manai Mohamed Mortadha**
